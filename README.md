@@ -3,8 +3,8 @@ Si tienes Git instalado, esta es la mejor opción para trabajar con el código.
 Asegúrate de tener Git instalado:
 
 En Windows: Descarga Git desde git-scm.com e instálalo.
-En macOS/Linux: Usa un gestor de paquetes como brew, apt, o dnf.
-bash
+En macOS/Linux: Usa un gestor de paquetes como brew, apt, o dnf
+
 Copy code
 `sudo apt update && sudo apt install git`  # En Ubuntu/Debian
 
