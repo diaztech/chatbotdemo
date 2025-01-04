@@ -1,3 +1,3 @@
 # Para correr el proyecto
-cd backend 
-npm run dev
+`cd backend `
+`npm run dev`
